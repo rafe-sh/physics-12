@@ -1,4 +1,9 @@
 .DS_Store
-
 C1-OT.pdf
 C1-RP.pdf
+
+*.aux
+*.log
+*.out
+*.synctex.gz
+code/*.pdf
